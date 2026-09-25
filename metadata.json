@@ -1,0 +1,11 @@
+{
+  "name": "CivicEye - SPOT.VERIFY.ACT",
+  "description": "Minimalist civic app where citizens report illegally parked vehicles, AI detects violation proof & location, and authorities give a final Go or No-Go to automatically dispatch fine notifications.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
